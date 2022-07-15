@@ -2,7 +2,7 @@
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning 0 coding languages
 - 💞️ I’m looking to collaborate on being friends?
-- 📫 How to reach me: I can be reached in many ways, the best way to reach me would be on Discord.  My current Discord tag is Ethan Alexander#1504
+- 📫 How to reach me: I can be reached at Ethan Alexander#1504 on Discord
 
 <!---
 TheEthanAlexander/TheEthanAlexander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
